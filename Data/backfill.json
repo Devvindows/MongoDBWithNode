@@ -1,0 +1,17 @@
+[
+    {
+        "Name": "User A",
+        "Age": 25,
+        "IsEnabled": true
+    },
+    {
+        "Name": "User B",
+        "Age": 28,
+        "IsEnabled": false
+    },
+    {
+        "Name": "User C",
+        "Age": 35,
+        "IsEnabled": true
+    }
+]
